@@ -1,0 +1,33 @@
+{
+  "title": "City of the dead sorcerer",
+  "description": "Nous sommes en 2030, 16 ans après la découverte de la mystérieuse substance SDE01 (le mana). Maintenant, nous sommes entrés dans l'Âge de la Magie.",
+  "Auteur": "Kim Carnby",
+  "Artiste": "Team Getname",
+  "cover": "https://miammiam-team.org/wp-content/uploads/2014/09/cotds-150x150.jpg",
+  "chapters": {
+    "63": {
+      "title": "Génie (3)",
+       "volume": "7",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/pY2Y9pI/"
+      },
+      "last_updated": "1615457716"
+    },
+      "64": {
+      "title": "Monstre négatif",
+      "volume": "7",
+      "groups": {
+      "MiamMiam Team": "/proxy/api/imgur/chapter/s213Ufu/"
+   },
+   "last_updated": "1615457716"
+   },
+    "65": {
+      "title": "La ville déchue (1)",
+      "volume": "8",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/vARUhB2/"
+      },
+      "last_updated": "1621502116"
+    }
+   }
+  }
